@@ -333,8 +333,8 @@
 }
 
 .img01{
-    width: 500px;
-    height: 500px;
+    width: 800px;
+    height: 533px;
     background: url(images/pontus-wellgraf-Ov7uQoarS7w-unsplash-800x533.jpg);
     background-size: contain;
     background-repeat: no-repeat;
@@ -342,16 +342,17 @@
     
 }
 .img02{
-    width: 500px;
-    height: 500px;
+    width: 350px;
+    height: 533px;
     background: url(images/riccardo-sanmartini-j2d7c1UZZXw-unsplash-1536x2048.jpg);
     background-size: contain;  
     background-repeat: no-repeat;
     background-position: center center;  
 }
 .img03{
-    width: 500px;
-    height: 400px;
+    width: 355px;
+    height: 473px;
+    margin-right: 20px;
     background: url(images/revolt-j7zu2kpTnwY-unsplash-1536x1024.jpg);
     background-size: contain;  
     background-repeat: no-repeat;
@@ -359,8 +360,9 @@
     
 }
 .img04{
-    width: 500px;
-    height: 400px;
+    width: 355px;
+    height: 473px;
+    margin-right: 20px;
     background: url(images/ivan-bandura-lZCHy8PLyyo-unsplash-800x533.jpg);
     background-size: contain;  
     background-repeat: no-repeat;
@@ -368,24 +370,25 @@
     
 }
 .img05{
-    width: 500px;
-    height: 400px;
+    width: 355px;
+    height: 473px;
+
     background: url(images/malvestida-magazine-DMl5gG0yWWY-unsplash-800x533.jpg);
     background-size: contain;  
     background-repeat: no-repeat;
     background-position: center center;  
 }
 .img06{
-    width: 500px;
-    height: 400px;
+    width: 455px;
+    height: 473px;
     background: url(images/hugo-barbosa-AZ1dAHLnYFc-unsplash-768x1024.jpg);
     background-size: contain;  
     background-repeat: no-repeat;
     background-position: center center;  
 }
 .img07{
-    width: 500px;
-    height: 400px;
+    width: 711px;
+    height: 474px;
     background: url(images/lukas-hellebrand-E1S962T0g5c-unsplash-800x533.jpg);
     background-size: contain;  
     background-repeat: no-repeat;
